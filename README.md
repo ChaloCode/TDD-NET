@@ -2,7 +2,9 @@
 
 > En este video, vamos a sumergirnos en el mundo del desarrollo impulsado por pruebas (TDD) mientras resolvemos el ejercicio 10 de Codility, usando C#. Desde la configuración del proyecto hasta la implementación final, te llevaré por cada paso del proceso, aplicando las tres leyes de TDD y explicando cómo convertir el código de rojo a verde con estrategias efectivas.
 
-[![video-youtube](doc/miniatura.jpg)](https://youtu.be/_s-F-vwZqI8)
+
+
+[![video-youtube](doc/miniatura.jpg)](https://youtu.be/0RbnTQ_Hspg)
 
 > Este repositorio encontrarás la solución del ejercicio 10 de Codelity usando C# con una calificación del 100%
 
